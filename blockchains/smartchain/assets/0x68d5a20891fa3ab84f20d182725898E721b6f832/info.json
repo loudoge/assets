@@ -1,0 +1,11 @@
+{
+ "name": "Lou Doge",
+    "website": "https://loudoge.com",
+    "description": "Lou Doge is a community based yield generating DeFi token, built on the Binance Smart Chain.",
+    "explorer": "https://bscscan.com/token/0x68d5a20891fa3ab84f20d182725898e721b6f832",
+    "type": "BEP20",
+    "symbol": "LDOGE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x68d5a20891fa3ab84f20d182725898e721b6f832"
+}
